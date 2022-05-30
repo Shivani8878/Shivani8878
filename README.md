@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivani8878
-- 👀 I’m interested in Molecular modeling, cheminformatics, molecular docking, simulations, Drug discovery and designing.
+- 👀 I’m interested in Molecular modeling, Cheminformatics, Molecular docking, MD Simulations, Drug discovery and Designing.
 - 🌱 I’m currently learning python, maestro, gromacs, etc.
 - 💞️ I’m looking to collaborate on designing of chemical molecules for tuberculosis.
 - 📫 How to reach me - shivanithakur@iitbhilai.ac.in
